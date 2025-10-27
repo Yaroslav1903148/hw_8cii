@@ -55,5 +55,6 @@
     <Text Include="bicycle.txt" />
     <Text Include="car.txt" />
     <Text Include="lorry.txt" />
+    <Text Include="lorry1.txt" />
   </ItemGroup>
 </Project>

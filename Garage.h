@@ -17,6 +17,12 @@ public:
 	Garage(ifstream& fileCar, ifstream&  fileBike, ifstream& fileLorry);
 
 	void addNew(ifstream& fileRead);
+	void delBynum(int num);
+	void seaByModel(string model);
+	void seaByNub(int num);
+	void seaByTandSped(string model, int speed);
+	void editB(string model, int num, string color, int speed);
+	void sortBySpeed();
 	void showInfo()const;
 };
 

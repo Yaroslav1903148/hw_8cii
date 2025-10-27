@@ -145,6 +145,7 @@
     <Text Include="bicycle.txt" />
     <Text Include="car.txt" />
     <Text Include="lorry.txt" />
+    <Text Include="lorry1.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
