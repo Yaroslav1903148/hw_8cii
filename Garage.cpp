@@ -66,3 +66,4 @@ void Garage::showInfo() const
 		(*arr[i]).showInfo();
 	}
 }
+
